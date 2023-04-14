@@ -6,6 +6,7 @@
 public class Leetcode72 {
     public static void main(String[] args) {
         System.out.println(new Leetcode72().minDistance("horse", "ros"));
+        System.out.println("bbbbb");
     }
 
     public int minDistance(String word1, String word2) {
